@@ -1,0 +1,61 @@
+<<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Full website</title>
+</head>
+
+<!-- body starts.-->
+<body>
+	<header id="main-header">
+		<h1 class="main title">Glowtech Digitals</h1>
+		<p>Tag Line for the website.</p>
+	</header> <!--header ends -->
+
+	<article>
+		<section class="post-head">
+			<h1>This is the blog Title.</h1>
+			<p>Written by chandan N on <time datetime="2019-05-21 20.05">30.7.2017</time></p>
+		</section> <!-- end of blog head -->
+
+
+		<section class="post-body">
+			<p>This is the <span class="body-section">body section</span></p>
+			<p>SOTC offers the best tour packages to explore fantastic holiday destinations of your ... India tour packages </p>
+
+				<p>by SOTC-your trusted Tours and Travels company! ... <q>more personalized services to you, both on this website and through</q> other media.</p>
+
+				<blockquote cite="https://www.youtube.com">
+					SOTC offers the best tour packages to explore fantastic holiday destinations of your ... India tour packages by SOTC-your trusted Tours and Travels company! ... more personalized services to you, both on this website and through other media.
+				</blockquote>
+		</section> <!-- end of post-body -->
+
+		<section class="post-foot">
+			<p>Chuck our other articles.</p>
+			<ul>
+				<li><a href="#">Link 1</a></li>
+				<li><a href="#">Link 2</a></li>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+				<li><a href="#">Link 5</a></li>
+			</ul>
+		</section> <!-- end of post foot -->
+		
+	</article> <!-- blog 1 ends -->
+
+	<aside id="main-sidebar">
+		<div id="author-info">
+			<h4>This article was written by chandan N</h4>
+		</div> <!-- end author info -->
+		
+	</aside> <!-- end main sidebar -->
+
+	<footer id="main-footer">
+		<div class="copyright-info">
+			&copy;2019
+		</div> <!-- end copy right info -->
+		
+	</footer> <!-- footer ends here -->
+</body>
+<!--Body ends -->
+</html>
